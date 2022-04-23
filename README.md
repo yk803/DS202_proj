@@ -9,6 +9,9 @@ It is used for my DS-UA 202 Responsible Data Science course project.
 
 [Yan wei](https://github.com/yw4182)
 
+# Notes about how to run the code
+Some of the code requires an older version of `numpy` and `pandas`, which might be incompatible with the current version on users' local computer. To avoid seeing hundreds of version incompatible warning in the training process, we highly recommend users to run the code in [DS202_Project.ipynb](https://github.com/yk803/DS202_proj/blob/master/DS202_Project.ipynb) on Google Colab. Just run all the blocks and it shall work the same as the shell script.
+
 ------------
 
 Competition: https://www.kaggle.com/c/GiveMeSomeCredit/overview
