@@ -57,7 +57,8 @@ chmod a+x ./run.sh
 - subsample: 0.6
 - reg_lambda: 0
 - reg_alpha: 0
-~~- n_estimators: 550~~ (didn't tune estimators because that would significantly increase training time: from about an hour to about a half day)
+
+- ~~n_estimators: 550~~ (didn't tune estimators because that would significantly increase training time: from about an hour to about a half day)
 - min_child_weight: 6
 - max_depth: 8
 - learning_rate: 0.007
