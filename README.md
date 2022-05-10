@@ -4,6 +4,8 @@
 
 It is used for my DS-UA 202 Responsible Data Science course project.
 
+For the final report, please refer to RDS Final Report.pdf. For the final version of code, please refer to Project_Tom_Lyris_final.ipynb.
+
 #### Team member:
 [Yukai Yang](https://www.linkedin.com/in/yukai-yang-7bba651a3/)
 
